@@ -1,0 +1,7 @@
+###AT5G35980_5_14132841_14132940
+gtf_file	Arabidopsis_thaliana.TAIR10.44.gtf
+bam_file	SRR5197905.Aligned.out.sam,SRR5197906.Aligned.out.sam,SRR5197909.Aligned.out.sam,SRR5197910.Aligned.out.sam
+psi_file	SRR5197905_IR_PSI.txt,SRR5197906_IR_PSI.txt,SRR5197909_IR_PSI.txt,SRR5197910_IR_PSI.txt
+out_dir	visulization_result
+sample_name	SRR5197905,SRR5197906,SRR5197909,SRR5197910
+sample_group	control,control,heat,heat,hea
