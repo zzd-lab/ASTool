@@ -3,7 +3,7 @@ ASTool: Accurate Identification of Alternative Splicing Events from Plant RNA-Se
 Step1: Download and installation:<br>
 Dependence:<br>
 ```
-Perl,threads(Perl module),SRA Toolkit, STAR<br>
+Perl,threads(Perl module),SRA Toolkit, STAR
 ```
 Download:
 ```
