@@ -171,4 +171,4 @@ e.g.
 The format of interest intron(intron.txt):AT1G01520_1_160303_160417
 perl ASTools_IR_view2.pl --gtf Arabidopsis_thaliana.TAIR10.52.gtf --bam SRR5197909.Aligned.out.bam --intron intron.txt --outdir ./SRR4048211_plot --junction ./SRR4048211_junction_ref/junction_count.txt --psi SRR4048211_IR_PSI.txt --no_junction SRR4048211_junction_no_ref/junction_count.txt
 ```
-For more details, see ASTool[http://zzdlab.com/ASTool/manual.php]
+For more details, see [ASTool](http://zzdlab.com/ASTool/manual.php)
